@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Faktur Monitoring</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_submit">Submit</string>
+    <string name="fragment_main_isi_nama">Isi Nama</string>
+    <string name="fragment_main_gabung">Gabung</string>
+    <string name="fragment_main_cetak_faktur">Cetak Faktur</string>
+    <string name="fragment_main_jenis_monitoring">Jenis Monitoring</string>
+    <string name="fragment_main_tanggal_tx_hint">yyyy-mm-dd</string>
+    <string name="fragment_main_tanggal_tx">Tanggal Tx</string>
+
+</resources>
