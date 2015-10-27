@@ -8,8 +8,17 @@
     <string name="fragment_main_isi_nama">Isi Nama</string>
     <string name="fragment_main_gabung">Gabung</string>
     <string name="fragment_main_cetak_faktur">Cetak Faktur</string>
-    <string name="fragment_main_jenis_monitoring">Jenis Monitoring</string>
+    <string name="fragment_main_jenis_monitoring">Type Monitoring</string>
     <string name="fragment_main_tanggal_tx_hint">yyyy-mm-dd</string>
-    <string name="fragment_main_tanggal_tx">Tanggal Tx</string>
+    <string name="fragment_main_tanggal_tx">Date Tx</string>
+	<string name="drawer_open">Open</string>
+	<string name="drawer_close">Close</string>
+	
+	<string-array name="monitoring_array">
+        <item>Isi Nama</item>
+        <item>Gabung</item>
+        <item>Cetak Faktur</item>  
+		<item>Isi Nama Hourly</item>
+    </string-array>
 
 </resources>
