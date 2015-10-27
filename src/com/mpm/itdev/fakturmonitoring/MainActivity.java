@@ -587,15 +587,15 @@ public class MainActivity extends Activity implements ActivityListener
 				values.put("h12_13", Integer.toString(h12_13));
 				values.put("h13_14", Integer.toString(h13_14));
 				values.put("h14_15", Integer.toString(h14_15));
-				values.put("h15_16 = obj.getInt("h15_16");
-				values.put("h16_17 = obj.getInt("h16_17");
-				values.put("h17_18 = obj.getInt("h17_18");
-				values.put("h18_19 = obj.getInt("h18_19");
-				values.put("h19_20 = obj.getInt("h19_20");
-				values.put("h20_21 = obj.getInt("h20_21");
-				values.put("h21_22 = obj.getInt("h21_22");
-				values.put("h22_23 = obj.getInt("h22_23");
-				values.put("h23_24 = obj.getInt("h23_24");
+				values.put("h15_16", Integer.toString(h15_16));
+				values.put("h16_17", Integer.toString(h16_17));
+				values.put("h17_18", Integer.toString(h17_18));
+				values.put("h18_19", Integer.toString(h18_19));
+				values.put("h19_20", Integer.toString(h19_20));
+				values.put("h20_21", Integer.toString(h20_21));
+				values.put("h21_22", Integer.toString(h21_22));
+				values.put("h22_23", Integer.toString(h22_23));
+				values.put("h23_24", Integer.toString(h23_24));
 
 				list.add(values);
 
